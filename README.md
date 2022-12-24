@@ -16,3 +16,6 @@
      IceDoomfist - His Lua was taken as a basis Heist Section for D2
      jhowkNx and UC (UnknownCheats) - for sharing information about all heist.
 
+# Other Heist Control scripts
+     2Take1: https://github.com/jhowkNx/Heist-Control-v2
+     
