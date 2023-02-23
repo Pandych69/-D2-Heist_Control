@@ -19,5 +19,3 @@
 # Other Heist Control scripts
      2Take1: https://github.com/jhowkNx/Heist-Control-v2
      Stand: https://icedoomfist.com/Stand_Heist_Control// 
-
-## Discord: https://discord.gg/JyDXejSnXm
