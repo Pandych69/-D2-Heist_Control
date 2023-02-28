@@ -19,3 +19,4 @@
 # Other Heist Control scripts
      2Take1: https://github.com/jhowkNx/Heist-Control-v2
      Stand: https://icedoomfist.com/Stand_Heist_Control// 
+     Midnight: https://github.com/Pandych69/MIDNIGHT-Heist_Control/releases
